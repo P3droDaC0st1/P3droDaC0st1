@@ -2,7 +2,7 @@
 <meta charset="UTF-8">
 </head>
 <body class="corpo-readme">
-    <section class="uno">
+    <section id="uno">
         <table>
             <tr>
                 <td>
@@ -15,45 +15,44 @@
             </tr>
         </table>
     <br>
-    <section class="dois">
+    <section id="dois">
         <table>
         <tr>
-             <h1 align="center"><b>💻 Tecnologias presentes nos repositórios 💻</b></h1>
+             <h1 align="center"> <b>💻 Tecnologias presentes nos repositórios 💻</b></h1>
         <td>
-            <p align='center'><b>=> Estudos e Projetos em <a href=""> HTML e CSS</a><b></p>
+            <p align='center'> <b>=> Estudos e Projetos em <a href=""> Java </a> <b></p>
         </td>
          <td>
-            <p align='center'><b>=> Estudos e Projetos em <a href=""> PHP</a><b></p>
+            <p align='center'> <b>=> Estudos e Projetos em <a href=""> PHP </a> <b></p>
         </td>
          <td>
-            <p align='center'><b>=> Estudos e Projetos em <a href=""> Javascript</a><b></p>
+            <p align='center'> <b>=> Estudos e Projetos em <a href=""> Javascript</a> <b></p>
         </td>
          <td>
-             <p align='center'><b>=> Estudos e Projetos em <a href=""> Python/Django</a><b></p>
+             <p align='center'> <b>=> Estudos e Projetos em <a href=""> HTML e CSS </a> <b></p>
         </td>
          <td>
-            <p align='center'><b>=> Estudos e Projetos em <a href=""> C/C++</a><b></p>
+            <p align='center'> <b>=> Estudos e Projetos em <a href=""> C/C++ </a> <b></p>
         </td>
         </tr>
             </table>
     </section>
     <br>
-    <section class="tres">
-        <div class="imagens">
+    <section id="tres">
+        <div id="imagens">
                 <figure>
             <h2 align="center">
-                <img align="center" alt="sudoPedro-PHP" height="46" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-                <img align="center" alt="sudoPedro-Python" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
-                <img align="center" alt="sudoPedro-Django" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-                <img align="center" alt="sudoPedro-linux" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-                <img align="center" alt="sudoPedro-HTML" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-                <img align="center" alt="sudoPedro-CSS" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-                <img align="center" alt="sudoPedro-C" height="46" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-                 <img align="center" alt="sudoPedro-CPP" height="46" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-                <img align="center" alt="sudoPedro-BASH" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
-                <img align="center" alt="sudoPedro-COMPOSER" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
-                <img align="center" alt="sudoPedro-JS" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-                <img align="center" alt="sudoPedro-Apache" height="46" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
+                <img align="center" alt="sudoPedro-JAVA" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
+                <img align="center" alt="sudoPedro-PHP" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+                <img align="center" alt="sudoPedro-JS" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+                <img align="center" alt="sudoPedro-HTML" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+                <img align="center" alt="sudoPedro-CSS" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+                <img align="center" alt="sudoPedro-C" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+                <img align="center" alt="sudoPedro-CPP" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+                <img align="center" alt="sudoPedro-LINUX" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+                <img align="center" alt="sudoPedro-BASH" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"/>
+                <img align="center" alt="sudoPedro-COMPOSER" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"/>
+                <img align="center" alt="sudoPedro-APACHE" height="48" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
             </h2>
             </figure>
         </div>
